@@ -1,0 +1,1 @@
+Disposable EhGI workflow QA. Generated non-sensitive fixture only. Checks run on the owner's Windows device; GitHub statuses report those actual runs. No hosted runner, provider or native sandbox is used.
